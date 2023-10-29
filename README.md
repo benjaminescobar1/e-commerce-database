@@ -41,5 +41,6 @@
   https://drive.google.com/file/d/1I4uVcGCISt9vV3UH0Cny7Kk4clJ5rstD/view
 
   ## Screenshot of E-Commerce deployed on Insomnia
-  
+  ![ecommerce](https://github.com/benjaminescobar1/e-commerce-database/assets/135399618/726649ce-4ae5-45b5-9aab-fbc3ec95d36d)
+
   
