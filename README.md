@@ -22,7 +22,7 @@
   7. Run "npm start" to get app listening on local host 
 
   ## Usage:
-  The usage of this project is to use the application created to generate a README file
+  The usage of this application is for users to Create, Read, Update, Delete at ease using the latest technology Insomnia. 
 
   ## Contributions:
   Contributions are always welcomed.
